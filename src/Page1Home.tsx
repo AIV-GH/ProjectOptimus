@@ -796,7 +796,7 @@ export const Page1Home: FunctionComponent = () => {
             </p>
           </div>
         </div>
-        <div className={styles.frameDiv18}>
+        {/* <div className={styles.frameDiv18}>
           <div className={styles.testimonial2Div}>
             <div className={styles.rectangleDiv24} />
             <div className={styles.testimonialsDiv}>
@@ -876,7 +876,7 @@ export const Page1Home: FunctionComponent = () => {
               onClick={openT21}
             />
           </div>
-        </div>
+        </div> */}
         <div className={styles.aboutUsDiv}>
           <div className={styles.aboutDiv} data-scroll-to="aboutContainer">
             <div className={styles.groupDiv47}>
