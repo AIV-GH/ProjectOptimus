@@ -60,6 +60,7 @@
   line-height: 171.5%;
   display: inline-block;
   width: 255px;
+  color: #353535;
 }
 .competitorsDiv,
 .contactDiv,
@@ -1189,6 +1190,7 @@
   cursor: pointer;
   position: absolute;
   display: inline-block;
+  color: #353535;
 }
 .cONTACTDiv1,
 .pRICINGDiv,
@@ -1215,6 +1217,7 @@
   position: absolute;
   left: 547px;
   display: inline-block;
+  color: #353535;
 }
 .pRODUCTDiv {
   left: 423px;
