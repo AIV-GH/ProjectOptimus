@@ -246,7 +246,7 @@
 }
 .footerDiv {
   position: absolute;
-  top: 7998px;
+  top: 7598px;
   left: -1px;
   width: 1440px;
   height: 397px;
@@ -375,7 +375,7 @@
 .groupDiv3 {
   position: absolute;
   width: 22.85%;
-  top: calc(50% - -3345.5px);
+  top: calc(50% - -3235.5px);
   right: 5.28%;
   left: 71.88%;
   height: 348px;
@@ -524,7 +524,7 @@
 .formDiv {
   height: 3.48%;
   width: 44.1%;
-  top: 90.94%;
+  top: 90.54%;
   right: 44.86%;
   bottom: 5.59%;
   left: 11.04%;
@@ -535,7 +535,7 @@
   position: absolute;
   height: 0.55%;
   width: 34.65%;
-  top: 89.77%;
+  top: 89.17%;
   right: 54.31%;
   bottom: 9.68%;
   left: 11.04%;
@@ -543,7 +543,7 @@
   display: inline-block;
 }
 .cONTACTDiv {
-  top: 7408px;
+  top: 6999px;
   left: 681px;
   font-size: 16px;
   font-weight: 600;
@@ -557,7 +557,7 @@
   display: inline-block;
 }
 .getInTouch {
-  top: 7453px;
+  top: 7043px;
   left: calc(50% - 125px);
   font-size: 42px;
   line-height: 50px;
@@ -602,7 +602,7 @@
 }
 .contactDiv1 {
   position: absolute;
-  top: 6922px;
+  top: 6522px;
   left: 158px;
   width: 429px;
   height: 365px;
@@ -687,7 +687,7 @@
   left: 498px;
 }
 .teamDiv {
-  top: 6942px;
+  top: 6582px;
   left: 660px;
   width: 707px;
   height: 345px;
@@ -1699,7 +1699,7 @@
   color: #2cbddd;
 }
 .pricingDiv2 {
-  top: -933px;
+  top: -1300px;
   height: 756px;
 }
 .startYourTrialToday {
@@ -1765,7 +1765,7 @@
 .downloadDiv3,
 .pricingDiv1 {
   position: absolute;
-  top: -80px;
+  top: -370px;
   left: 152px;
   width: 1136px;
   height: 486px;
@@ -1777,7 +1777,7 @@
   top: 6345px;
   left: -2px;
   width: 1440px;
-  height: 668px;
+  height: 608px;
   text-align: center;
   font-size: 25px;
   color: #1d2d3f;
@@ -2324,7 +2324,7 @@
   position: relative;
   background-color: #fff;
   width: 100%;
-  height: 8395px;
+  height: 7995px;
   overflow: hidden;
   text-align: left;
   font-size: 20px;
