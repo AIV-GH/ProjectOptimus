@@ -821,6 +821,7 @@
   left: 986px;
   line-height: 30px;
   display: inline-block;
+  color: #353535;
 }
 .pRICINGDiv {
   left: 876px;
@@ -841,6 +842,7 @@
 .cOMPETITORSDiv {
   left: 547px;
   cursor: pointer;
+  color: #353535;
 }
 .cOMPANYDiv,
 .lOGOB,
@@ -1158,6 +1160,7 @@
   font-size: 20px;
   color: #1d2d3f;
   font-family: Inter;
+  color: #353535;
 }
 .sENIORDiv1 {
   top: 0;
