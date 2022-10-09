@@ -121,7 +121,7 @@ export const Payment: FunctionComponent = () => {
       <div className={styles.footerDiv}>
         <div className={styles.rectangleDiv17} />
         <div className={styles.rectangleDiv18} />
-        <div className={styles.logoDiv}><img src="logo.png" height="50" width="50" /></div>
+        <div className={styles.logoDiv}><img src="chatbot1.png" height="50" width="50" /></div>
         <div className={styles.transformingLivesOfPeopleA}>
         Transforming lives across the globe by adventuring Artificial Intelligence.
         </div>
@@ -300,7 +300,7 @@ export const Payment: FunctionComponent = () => {
         <div className={styles.pRODUCTDiv}>PRODUCT</div>
         <div className={styles.cOMPANYDiv}>COMPANY</div>
         <Link to="/"><div className={styles.logomain}>
-          <img src="logo.png" height="50" width="50" />
+          <img src="chatbot.png" height="50" width="50" />
         </div></Link>
       </div>
     </div>
