@@ -439,7 +439,14 @@ export const Page1Home: FunctionComponent = () => {
             <div className={styles.rectangleDiv19}/>
             <div className={styles.downloadNowDiv}>Download Now</div>
           </div>
-          <Carousel className={styles.blueMainBannerr2}>
+          <Carousel className={styles.blueMainBannerr2}
+           infiniteLoop
+           autoPlay
+           interval={5000}
+           showArrows={false}
+           showStatus={false}
+           showThumbs={false}
+           showIndicators={true}>
             <div>
               <img src="bluee01-1@2x.png" />
             </div>
