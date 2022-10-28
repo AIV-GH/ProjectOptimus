@@ -346,9 +346,9 @@ export const Page1Home: FunctionComponent = () => {
         </div>
         <div className={styles.homeBannerDiv}>
           <div className={styles.rectangleDiv8} />
-          <img className={styles.ellipseIcon} alt="" src="ellipse-42.svg" />
+         {/* <img className={styles.ellipseIcon} alt="" src="ellipse-42.svg" />
           <img className={styles.groupIcon1} alt="" src="group-579.svg" />
-          <img className={styles.groupIcon2} alt="" src="group-163.svg" />
+          <img className={styles.groupIcon2} alt="" src="group-163.svg" /> */}
           <div className={styles.groupDiv8}>
             <div className={styles.image48Div} />
             <img className={styles.groupIcon3} alt="" src="group-25.svg" />
